@@ -11,3 +11,6 @@ Two creature will try to make two creature breed new child.
 ![sample0](prototype/image/code_gene_sample0.png)
 
 ![sample1](prototype/image/code_gene_sample1.png)
+
+## Wait to update
+- [ ] name pool
